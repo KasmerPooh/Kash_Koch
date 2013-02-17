@@ -265,22 +265,24 @@ void projecy::summation_of_primes()
 {
     long long sum = 0LL;
     int range = 2000000;
+    int x = 2;
+    int y = 2;
 
-    for ( int i = 2; i < range; i++ )
+    for(int i = 2; i < range; i++)
     {
-        for ( int j = 2; j <= i; j++ )
+        for(int k = 2; k <= i; k++)
         {
-            if ( j == i )
+            if(k == i)
             {
+
                 sum += i;
             }
 
-            else if ( i % j == 0 )
+            else if(i%k == 0)
             {
                 break;
             }
         }
     }
-
-    cout << sum << endl << endl;
+    cout << sum << endl;
 }

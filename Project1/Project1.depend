@@ -31,7 +31,7 @@
 	<cstdlib>
 	"projecy.h"
 
-1360944426 source:i:\project\project1\projecy.cpp
+1360954646 source:i:\project\project1\projecy.cpp
 	"projecy.h"
 	<iostream>
 	<sstream>
@@ -43,23 +43,6 @@
 	<iostream>
 
 1360943098 source:i:\project\project1\main.cpp
-	<iostream>
-	<string>
-	<cstdlib>
-	"projecy.h"
-
-1361002026 source:c:\users\mich-pc\desktop\desktop\project1\projecy.cpp
-	"projecy.h"
-	<iostream>
-	<sstream>
-	<fstream>
-	<vector>
-
-1361002054 c:\users\mich-pc\desktop\desktop\project1\projecy.h
-	<string>
-	<iostream>
-
-1361000698 source:c:\users\mich-pc\desktop\desktop\project1\main.cpp
 	<iostream>
 	<string>
 	<cstdlib>
